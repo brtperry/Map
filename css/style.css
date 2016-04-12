@@ -1,0 +1,46 @@
+html { height: 100% }
+body { height: 100%; margin: 0; padding: 0 }
+#map_canvas { height: 100% }
+
+article {
+    padding: .8em;
+    height: 3em; 
+    max-width: 30em;
+}
+
+ul { 
+    list-style-type: none;
+}
+
+li {
+    color:#444;
+    height:auto;
+    width:auto;
+    max-width: 20em;
+    margin: .5em;
+    padding:1em;
+    -moz-border-radius:.4em;
+    -webkit-border-radius:.4em;
+    background: #fff;
+    -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
+    -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset; 
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
+}
+
+li img {
+    
+   position:relative;
+    float: right;
+
+}
+
+ul li h3 { 
+    font-size: .9em;
+}
+
+ul li p {
+	font-size: .7em;
+    font: .7em 'serif';
+    position:relative;
+    top:.2em;
+}

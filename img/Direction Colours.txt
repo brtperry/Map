@@ -1,0 +1,8 @@
+west hue -88
+
+east hue +168
+
+north hue +76, saturation +139
+
+south hue -35, saturation +168
+
